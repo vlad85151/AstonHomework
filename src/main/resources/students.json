@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Алексей",
+    "books": [
+      {"title": "Чистый код", "author": "Роберт Мартин", "pages": 464, "year": 2008},
+      {"title": "Java. Библиотека профессионала", "author": "Кей Хорстманн", "pages": 976, "year": 2022},
+      {"title": "Грокаем алгоритмы", "author": "Адитья Бхаргава", "pages": 288, "year": 2016},
+      {"title": "Эффективный Java", "author": "Джошуа Блох", "pages": 416, "year": 2018},
+      {"title": "Рефакторинг", "author": "Мартин Фаулер", "pages": 448, "year": 2019},
+      {"title": "Совершенный код", "author": "Стив Макконнелл", "pages": 960, "year": 2004},
+      {"title": "Программист-прагматик", "author": "Эндрю Хант", "pages": 352, "year": 1999}
+    ]
+  },
+  {
+    "name": "Мария",
+    "books": [
+      {"title": "Head First Java", "author": "Кэти Сьерра", "pages": 688, "year": 2022},
+      {"title": "Java Concurrency in Practice", "author": "Брайан Гетц", "pages": 432, "year": 2006},
+      {"title": "Effective Java", "author": "Джошуа Блох", "pages": 416, "year": 2018},
+      {"title": "Алгоритмы. Построение и анализ", "author": "Томас Кормен", "pages": 1296, "year": 2022},
+      {"title": "Spring в действии", "author": "Крейг Уоллс", "pages": 520, "year": 2022},
+      {"title": "SQL. Полное руководство", "author": "Джеймс Грофф", "pages": 1100, "year": 2015}
+    ]
+  },
+  {
+    "name": "Иван",
+    "books": [
+      {"title": "Программист-прагматик", "author": "Эндрю Хант", "pages": 352, "year": 1999},
+      {"title": "Java. Эффективное программирование", "author": "Джошуа Блох", "pages": 416, "year": 2018},
+      {"title": "Грокаем алгоритмы", "author": "Адитья Бхаргава", "pages": 288, "year": 2016},
+      {"title": "Spring в действии", "author": "Крейг Уоллс", "pages": 520, "year": 2022},
+      {"title": "Совершенный код", "author": "Стив Макконнелл", "pages": 960, "year": 2004}
+    ]
+  },
+  {
+    "name": "Елена",
+    "books": [
+      {"title": "Основы программирования", "author": "Никлаус Вирт", "pages": 320, "year": 1998},
+      {"title": "Алгоритмы на Java", "author": "Роберт Седжвик", "pages": 720, "year": 2011},
+      {"title": "Java для начинающих", "author": "Герберт Шилдт", "pages": 640, "year": 2019}
+    ]
+  },
+  {
+    "name": "Дмитрий",
+    "books": [
+      {"title": "Clean Architecture", "author": "Роберт Мартин", "pages": 432, "year": 2017},
+      {"title": "Design Patterns", "author": "Эрих Гамма", "pages": 395, "year": 1994},
+      {"title": "Head First Design Patterns", "author": "Эрик Фримен", "pages": 694, "year": 2020},
+      {"title": "Мифический человеко-месяц", "author": "Фредерик Брукс", "pages": 336, "year": 1995},
+      {"title": "Kotlin в действии", "author": "Дмитрий Жемеров", "pages": 360, "year": 2017},
+      {"title": "Тестирование Java-приложений", "author": "Артём Ерошенко", "pages": 480, "year": 2021},
+      {"title": "Работа с Git", "author": "Скотт Чакон", "pages": 450, "year": 2023},
+      {"title": "Java Performance", "author": "Скотт Оукс", "pages": 520, "year": 2020}
+    ]
+  },
+  {
+    "name": "Ольга",
+    "books": [
+      {"title": "Изучаем Python", "author": "Марк Лутц", "pages": 700, "year": 2013},
+      {"title": "JavaScript для профессионалов", "author": "Николас Закас", "pages": 600, "year": 2012},
+      {"title": "Паттерны проектирования", "author": "Эрих Гамма", "pages": 395, "year": 1994},
+      {"title": "Микросервисы", "author": "Сэм Ньюман", "pages": 480, "year": 2021}
+    ]
+  }
+]
